@@ -1,6 +1,57 @@
 {
- "generatedAt": "",
+ "generatedAt": "2026-06-09T07:52:17.797Z",
  "station": "VOGA",
- "metar": "",
- "notams": []
+ "metar": "METAR VOGA 090730Z 36003KT 5000 HZ SCT015 BKN080 30/27 Q1009 NOSIG",
+ "notams": [
+  {
+   "notamNumber": "G0678/22",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "07/18/2022 0600",
+   "startDate": "08/11/2022 0000",
+   "endDate": "PERM",
+   "icaoMessage": "G0678/22 NOTAMN\nQ) VOMF/QNMCS/IV/BO /AE/000/999/1544N07351E025\nA) VOGA B) 2208110000 C) PERM\nE) DVOR AND DME COMMISSIONED AT MOPA, GOA AIRPORT WITH FOLLOWING\nDETAILS:\n1. TYPE OF AIDS- DVOR\nIDENTIFICATION- MPG\nFREQUENCY- 117.4 MHZ\nGEOGRAPHICAL COORDINATES- 154448.873N 0735123.959E\nHOURS OF OPERATION- AS ATS\n2. TYPE OF AIDS- DME\nIDENTIFICATION- MPG\nFREQUENCY- 121X\nGEOGRAPHICAL COORDINATES- 154448.762N 0735123.620E\nTOP ELEVATION OF DME TRANSMITTING ANTENNA- 171.461 M (EGM-2008)\nHOURS OF OPERATION- AS ATS\nREMARKS- DME COLOCATED WITH DVOR\nPURPOSE: AE\nINSERT IN GEN2.5 AND ENR4.1 OF EAIP INDIA ACCORDINGLY.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "G0945/22",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "11/02/2022 1216",
+   "startDate": "11/02/2022 1210",
+   "endDate": "PERM",
+   "icaoMessage": "G0945/22 NOTAMN\nQ) VOMF/QNMXX/IV/BO /A /000/999/1545N07351E025\nA) VOGA B) 2211021210 C) PERM\nE) REF AIP SUP 170/2022 REGARDING AD DATA OF NEW GOA AP,\nMOPA (VOGA). VOGA AD 2.19 IS AMD AS FLW:\n1) AMD COLUMN 1, 2 AND 3 OF ROW 3 AS DME ILS 28, IMPA, CH42X\n2) AMD COLUMN 1, 2 AND 3 OF ROW 5 AS DVOR/DME, MPG, CH121X\nAMD AIP SUP 170/2022 ACCORDINGLY.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "G0916/24",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "06/01/2026 0656",
+   "startDate": "07/30/2024 0728",
+   "endDate": "PERM",
+   "icaoMessage": "G0916/24 NOTAMN\nQ) VOMF/QPICH/I/NBO/A/000/999/1545N07352E005\nA) VOGA B) 2407300728 C) PERM\nE) REF PAGE AD2 VOGA 2-101 26 JAN 2023 REGARDING ILS RWY 28. FLW\nAMDT ARE MADE:-\n1. ILS RDH IS AMENDED AS 56.7FT\n2. IAP IS DESIGNATED AS ILS Z RWY 28.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1688/26",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "05/20/2026 1228",
+   "startDate": "05/20/2026 1215",
+   "endDate": "08/19/2026 1415",
+   "icaoMessage": "A1688/26 NOTAMR A0637/26\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2605201215 C) 2608191415\r\nD) WED 1215-1415\r\nE) RWY 10/28 NOT AVBL DUE MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1671/26",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "05/18/2026 1505",
+   "startDate": "05/18/2026 1506",
+   "endDate": "06/20/2026 1130",
+   "icaoMessage": "A1671/26 NOTAMR A1395/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2605181506 C) 2606201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKNG TO STAND 13.",
+   "traditionalMessage": ""
+  }
+ ]
 }
