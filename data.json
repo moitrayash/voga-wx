@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-14T06:21:40.798Z",
+ "generatedAt": "2026-06-14T10:04:24.998Z",
  "station": "VOGA",
- "metar": "",
+ "metar": "METAR VOGA 141000Z 30013KT 5000 HZ SCT020 34/27 Q1009 TEMPO 3000 DZ",
  "notams": [
   {
    "notamNumber": "G0678/22",
