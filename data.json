@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-19T10:03:52.565Z",
+ "generatedAt": "2026-06-19T13:48:34.995Z",
  "station": "VOGA",
- "metar": "METAR VOGA 191000Z 22007KT 8000 SCT020 34/24 Q1009 NOSIG",
+ "metar": "METAR VOGA 191330Z 25007KT 5000 HZ FEW020 32/25 Q1009 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
@@ -44,13 +44,13 @@
    "traditionalMessage": ""
   },
   {
-   "notamNumber": "A1671/26",
+   "notamNumber": "A1971/26",
    "facilityDesignator": "VOGA",
    "featureName": "International",
-   "issueDate": "05/18/2026 1505",
-   "startDate": "05/18/2026 1506",
-   "endDate": "06/20/2026 1130",
-   "icaoMessage": "A1671/26 NOTAMR A1395/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2605181506 C) 2606201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKNG TO STAND 13.",
+   "issueDate": "06/19/2026 1041",
+   "startDate": "06/19/2026 1041",
+   "endDate": "07/20/2026 1130",
+   "icaoMessage": "A1971/26 NOTAMR A1671/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2606191041 C) 2607201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKG TO STAND 13.",
    "traditionalMessage": ""
   }
  ]
