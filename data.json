@@ -1,7 +1,8 @@
 {
- "generatedAt": "2026-06-22T16:11:45.288Z",
+ "generatedAt": "2026-06-22T19:50:30.543Z",
  "station": "VOGA",
- "metar": "METAR VOGA 221600Z 26003KT 1000 R28/P2000 R10/1000 +RA SCT001 SCT018 FEW020TCU FEW025CB 27/27 Q1010 TEMPO 1500 +RA",
+ "metar": "",
+ "metarError": "Error: METAR HTTP 502",
  "notams": [
   {
    "notamNumber": "G0678/22",
