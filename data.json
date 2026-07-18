@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-18T07:22:57.910Z",
+ "generatedAt": "2026-07-18T09:08:48.484Z",
  "station": "VOGA",
- "metar": "METAR VOGA 180700Z 29015KT 3000 VCSH SCT012 OVC080 30/27 Q1009 TEMPO 2000 SHRA",
+ "metar": "METAR VOGA 180900Z 26014KT 1800 +RA SCT012 SCT020 OVC080 27/26 Q1009 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
@@ -34,6 +34,16 @@
    "traditionalMessage": ""
   },
   {
+   "notamNumber": "A2225/26",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "07/18/2026 0726",
+   "startDate": "07/18/2026 0726",
+   "endDate": "08/20/2026 1130",
+   "icaoMessage": "A2225/26 NOTAMR A1971/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2607180726 C) 2608201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKG TO STAND 13.",
+   "traditionalMessage": ""
+  },
+  {
    "notamNumber": "A1688/26",
    "facilityDesignator": "VOGA",
    "featureName": "International",
@@ -41,16 +51,6 @@
    "startDate": "05/20/2026 1215",
    "endDate": "08/19/2026 1415",
    "icaoMessage": "A1688/26 NOTAMR A0637/26\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2605201215 C) 2608191415\r\nD) WED 1215-1415\r\nE) RWY 10/28 NOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1971/26",
-   "facilityDesignator": "VOGA",
-   "featureName": "International",
-   "issueDate": "06/19/2026 1041",
-   "startDate": "06/19/2026 1041",
-   "endDate": "07/20/2026 1130",
-   "icaoMessage": "A1971/26 NOTAMR A1671/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2606191041 C) 2607201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKG TO STAND 13.",
    "traditionalMessage": ""
   }
  ]
