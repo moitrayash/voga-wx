@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-21T13:04:57.072Z",
+ "generatedAt": "2026-07-21T15:16:36.983Z",
  "station": "VOGA",
- "metar": "METAR VOGA 211300Z 25010KT 2800 BR SCT012 BKN080 28/27 Q1009 NOSIG",
+ "metar": "METAR VOGA 211500Z 21002KT 2800 BR SCT012 BKN080 28/27 Q1010 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
@@ -54,13 +54,13 @@
    "traditionalMessage": ""
   },
   {
-   "notamNumber": "A2247/26",
+   "notamNumber": "A2256/26",
    "facilityDesignator": "VOGA",
    "featureName": "International",
-   "issueDate": "07/20/2026 1455",
-   "startDate": "07/20/2026 1400",
-   "endDate": "07/21/2026 1330",
-   "icaoMessage": "A2247/26 NOTAMN\r\nQ) VOMF/QFFCG/IV/NBO/A/000/999/1545N07352E005\r\nA) VOGA B) 2607201400 C) 2607211330\r\nE) RFFS CAT DOWNGRADED TO CAT 7 DUE MAINT \r\nOF CRASH FIRE TENDER .FIRE PROTECTION AVBL\r\nWITH WATER 25000L FOAM COMPOUND 3000L\r\nAND DRY CHEMICAL POWDER 450KG",
+   "issueDate": "07/21/2026 1153",
+   "startDate": "07/21/2026 1153",
+   "endDate": "07/22/2026 1330",
+   "icaoMessage": "A2256/26 NOTAMR A2247/26\r\nQ) VOMF/QFFCG/IV/NBO/A/000/999/1545N07352E005\r\nA) VOGA B) 2607211153 C) 2607221330\r\nE) RFFS CAT DOWNGRADED TO CAT 7 DUE MAINT \r\nOF CRASH FIRE TENDER .FIRE PROTECTION AVBL\r\nWITH WATER 25000L FOAM COMPOUND 3000L\r\nAND DRY CHEMICAL POWDER 450KG",
    "traditionalMessage": ""
   }
  ]
