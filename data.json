@@ -1,8 +1,7 @@
 {
- "generatedAt": "2026-07-22T20:52:50.714Z",
+ "generatedAt": "2026-07-22T22:07:37.478Z",
  "station": "VOGA",
- "metar": "",
- "metarError": "TypeError: fetch failed",
+ "metar": "METAR VOGA 222200Z 26010KT 2100 HZ SCT015 FEW020TCU FEW025CB OVC070 28/27 Q1007 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
