@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-22T06:32:55.141Z",
+ "generatedAt": "2026-07-22T09:14:08.705Z",
  "station": "VOGA",
- "metar": "METAR VOGA 220630Z 24010KT 2500 DZ FEW012 SCT015 BKN080 27/26 Q1009 NOSIG",
+ "metar": "METAR VOGA 220800Z 25014KT 3000 BR FEW012 SCT015 BKN080 30/28 Q1008 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
@@ -31,6 +31,26 @@
    "startDate": "07/30/2024 0728",
    "endDate": "PERM",
    "icaoMessage": "ORIGINAL NOTAM\r\n(G0916/24 NOTAMN\r\nQ) VOMF/QPICH/I/NBO/A/000/999/1545N07352E005\r\nA) VOGA B) 2407300728 C) PERM\r\nE) REF PAGE AD2 VOGA 2-101 26 JAN 2023 REGARDING ILS RWY 28. FLW\r\nAMDT ARE MADE:-\r\n1. ILS RDH IS AMENDED AS 56.7FT\r\n2. IAP IS DESIGNATED AS ILS Z RWY 28.)",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2272/26",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "07/22/2026 0824",
+   "startDate": "07/23/2026 0300",
+   "endDate": "07/23/2026 0600EST",
+   "icaoMessage": "A2272/26 NOTAMN\r\nQ) VOMF/QCTAS/IV/BO/AE/000/999/1258N07453E060\r\nA) VOGA B) 2607230300 C) 2607230600EST\r\nE) PSR FREQ 2735/2820MHZ NOT AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2273/26",
+   "facilityDesignator": "VOGA",
+   "featureName": "International",
+   "issueDate": "07/22/2026 0828",
+   "startDate": "07/23/2026 0300",
+   "endDate": "07/23/2026 0600EST",
+   "icaoMessage": "A2273/26 NOTAMN\r\nQ) VOMF/QCSAS/I/BO/AE/000/999/1258N07453E250\r\nA) VOGA B) 2607230300 C) 2607230600EST\r\nE) MSSR FREQ 1030/1090MHZ NOT AVBL",
    "traditionalMessage": ""
   },
   {
