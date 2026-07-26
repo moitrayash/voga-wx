@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-26T04:47:15.820Z",
+ "generatedAt": "2026-07-26T07:27:30.666Z",
  "station": "VOGA",
- "metar": "METAR VOGA 260430Z 30009KT 3500 BR SCT015 BKN080 31/28 Q1009 BECMG 4000 HZ",
+ "metar": "METAR VOGA 260700Z 26010KT 5000 BR BKN015 BKN080 31/27 Q1008 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
