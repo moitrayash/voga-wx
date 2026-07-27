@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-27T14:45:27.000Z",
+ "generatedAt": "2026-07-27T16:50:30.909Z",
  "station": "VOGA",
- "metar": "METAR VOGA 271430Z 27007KT 3000 BR FEW007 SCT012 BKN070 28/27 Q1007 NOSIG",
+ "metar": "METAR VOGA 271630Z 31011KT 3000 DZ FEW008 SCT020 BKN070 28/27 Q1008 NOSIG",
  "notams": [
   {
    "notamNumber": "G0678/22",
@@ -31,16 +31,6 @@
    "startDate": "07/30/2024 0728",
    "endDate": "PERM",
    "icaoMessage": "ORIGINAL NOTAM\r\n(G0916/24 NOTAMN\r\nQ) VOMF/QPICH/I/NBO/A/000/999/1545N07352E005\r\nA) VOGA B) 2407300728 C) PERM\r\nE) REF PAGE AD2 VOGA 2-101 26 JAN 2023 REGARDING ILS RWY 28. FLW\r\nAMDT ARE MADE:-\r\n1. ILS RDH IS AMENDED AS 56.7FT\r\n2. IAP IS DESIGNATED AS ILS Z RWY 28.)",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2225/26",
-   "facilityDesignator": "VOGA",
-   "featureName": "International",
-   "issueDate": "07/18/2026 0726",
-   "startDate": "07/18/2026 0726",
-   "endDate": "08/20/2026 1130",
-   "icaoMessage": "A2225/26 NOTAMR A1971/26\r\nQ) VOMF/QFDAS/IV/BO/A/000/999/1545N07352E005\r\nA) VOGA B) 2607180726 C) 2608201130\r\nE) VISUAL DCKG GUIDANCE SYSTEM FOR STAND 13\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MANUAL\r\nMARSHALLING FOR DCKG TO STAND 13.",
    "traditionalMessage": ""
   },
   {
