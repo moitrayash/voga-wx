@@ -1,8 +1,7 @@
 {
- "generatedAt": "2026-07-28T01:09:23.681Z",
+ "generatedAt": "2026-07-28T04:29:11.125Z",
  "station": "VOGA",
- "metar": "",
- "metarError": "Error: METAR HTTP 504",
+ "metar": "METAR VOGA 280400Z 31010KT 3000 BR VCFG SCT005 SCT015 BKN070 27/27 Q1007 TEMPO 2000 SHRA",
  "notams": [
   {
    "notamNumber": "G0678/22",
