@@ -1,8 +1,7 @@
 {
- "generatedAt": "2026-10-26T19:31:40.633Z",
+ "generatedAt": "2026-10-26T19:32:12.323Z",
  "station": "VOGA",
- "metar": "",
- "metarError": "Error: METAR HTTP 502",
+ "metar": "METAR VOGA 261900Z 00000KT 3000 HZ NSC 28/18 Q1012 NOSIG",
  "notams": [],
  "notamError": "Error: NOTAM HTTP 403"
 }
